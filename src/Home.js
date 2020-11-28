@@ -23,9 +23,7 @@ function Home() {
       Vivamus eget pretium mauris, sit amet auctor risus. Vestibulum at velit laoreet, egestas quam quis, hendrerit nisi.
       Vivamus et libero sed urna hendrerit imperdiet vel suscipit tortor. Sed varius commodo augue, at varius sem molestie ut.
       Proin eget mauris risus. Sed ullamcorper tincidunt sapien scelerisque commodo. Sed sed orci quis ligula scelerisque euismod
-      quis eu metus. Curabitur et tempor nulla. Sed feugiat mauris eu est finibus, eget luctus orci maximus. Donec mi lectus,
-      interdum a est vitae, elementum scelerisque libero. Integer imperdiet ligula sit amet consequat iaculis. Maecenas tincidunt
-      ligula suscipit, dictum turpis at, finibus dolor.
+      quis eu metus. Curabitur et tempor nulla. 
       </p>
     </main>
   )
